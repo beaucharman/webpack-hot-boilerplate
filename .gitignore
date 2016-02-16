@@ -1,0 +1,7 @@
+# files
+.DS_Store
+.env
+npm-debug.log
+
+# folders
+node_modules/
